@@ -661,14 +661,14 @@ iframe{
 }
 
 #portfolio{
-        padding: 0% 20px;
+    padding: 40px 20px;
     background-color: rgba(34, 34, 34, 1);
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
     flex-direction: column;
-    margin: 40px auto;
+
 }
 
  #portfolio ul{
